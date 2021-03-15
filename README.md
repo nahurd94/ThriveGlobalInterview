@@ -1,2 +1,2 @@
 # ThriveGlobalInterview
-Gatsby project
+Coding Homework Gatsby project
