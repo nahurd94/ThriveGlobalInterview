@@ -14,5 +14,6 @@ Simple gatsby page with a cute kitten video and a link to [Google](http://google
    * Run command ```npm install -g gatsby-cli``` 
 
 ## Start locally
-Run command ```gatsby develop```
+1. Run command ```gatsby develop```
+2. Navigate to http://localhost:8000/
 
