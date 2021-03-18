@@ -1,4 +1,4 @@
-# ThriveGlobalInterview
+# Thrive Global Interview
 Simple gatsby page with a cute kitten video and a link to [Google](http://google.com)
 
 ## Built with 
